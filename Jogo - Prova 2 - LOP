@@ -1,7 +1,5 @@
-//Prova 2 - LOP 
-//Aluno: José Guilherme CS Costa, UFRN, C&T 2024.1 - turma 02
-
-// Jogo de Tiro ao Alvo
+//Prova 2 - Jogo  
+// Explicação: https://youtu.be/5197zCebwCs
 
 let screen = 'start'; // Tela inicial
 let targets = []; // Lista de alvos
