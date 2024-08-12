@@ -1,4 +1,4 @@
-//Prova 2 - Jogo  
+//Prova 2 - Jogo (beta)
 // Explicação: https://youtu.be/5197zCebwCs
 
 let screen = 'start'; // Tela inicial
