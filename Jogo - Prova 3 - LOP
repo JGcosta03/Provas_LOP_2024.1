@@ -2,7 +2,9 @@
 // Aluno: José Guilherme CS Costa, UFRN, C&T 2024.1 - turma 02
 
 // Jogo de Tiro ao Alvo - Versão final
-//Explicação: 
+
+// Explicação: https://youtu.be/-S5HwBb39Rg
+// Gameplay: https://youtu.be/ZFGxelAcZ1E
 
 let screen = 'start'; // Tela inicial
 let targets = []; // Lista de alvos
