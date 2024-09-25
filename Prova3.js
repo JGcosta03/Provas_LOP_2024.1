@@ -1,4 +1,4 @@
-// Prova 2 - LOP 
+// Prova 3 - LOP 
 // Aluno: José Guilherme CS Costa, UFRN, C&T 2024.1 - turma 02
 
 // Jogo de Tiro ao Alvo - Versão final
